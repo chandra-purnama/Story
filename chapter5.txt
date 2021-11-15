@@ -1,3 +1,9 @@
 This is chapter 5 only
 
+<<<<<<< HEAD
 This is edit by RAFFIE
+=======
+This line is added in Alien-Plot2 before merging with Master branch
+
+This is another edit by RENZO
+>>>>>>> alien-plot2
